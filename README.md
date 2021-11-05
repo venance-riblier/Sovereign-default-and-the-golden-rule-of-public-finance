@@ -1,5 +1,5 @@
 # Sovereign-default-and-the-golden-rule-of-public-finance
- Replication files for my master thesis: Sovereign default and the golden rule of public finance.
+ Replication files for my master thesis: Sovereign Default and the Golden Rule of Public Finance. The main text can is available in this repository.
 
 The baseline model is solved by running `Solve_baseline.m` and the corresponding policy functions are stored in `policies.mat`. 
 The results of the simulations are not stored here but they can be replicated by running `Simulations_baseline.m`. The analysis of the baseline
